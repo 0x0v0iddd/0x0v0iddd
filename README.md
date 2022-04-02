@@ -1,6 +1,6 @@
 ### Hey, bem vindo! 👋🏻
 
-Sou um desenvolvedor web e trabalho com o PHP/Laravel. <br>
+Formado em análise e desenvolvimento de sistemas, sou um desenvolvedor web e trabalho com o PHP/Laravel. <br>
 Atualmente estou estudando o C# e todo ambiente .NET juntamente com o Javascript/Angular2.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
