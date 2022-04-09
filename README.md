@@ -1,13 +1,16 @@
-### Hey, bem vindo! 👋🏻
+<!-- ## Hey, I see you found me 🖖🏻 -->
+let me introduce myself.
 
-Formado em análise e desenvolvimento de sistemas, sou um desenvolvedor web e trabalho com o PHP/Laravel. <br>
-Atualmente estou estudando o C# e todo ambiente .NET juntamente com o Javascript/Angular2.
+- 🎭 My nick is: 0x1997
+- 🦹🏻‍♂️ I currently work as a web developer (PHP/Laravel)
+- 🧙🏼‍♂️ In my spare time I have studied Computer Architecture, C programming and Assembly (x86) with a focus on reverse engineering.
+- 💚 I am interested in cybersecurity (Malware Analysis and Pentest)
+- 📫 <a href="mailto:mscavalcan7i@protonmail.com"> My email</a> / <a href="https://www.linkedin.com/in/mateus-cavalcanti-931381202/">Linkedin</a> / <a href="https://www.instagram.com/cavalcan7i_/">Instagram</a>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<b> [+] </b>Possuo conhecimentos em: 
 
+![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
