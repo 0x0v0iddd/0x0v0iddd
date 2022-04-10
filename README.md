@@ -1,7 +1,7 @@
 <!-- ## Hey, I see you found me 🖖🏻 -->
 let me introduce myself.
 
-- 🎭 My nick is: 0x1997
+- 🎭 My nick is: 0x0v0iddd
 - 🦹🏻‍♂️ I currently work as a web developer (PHP/Laravel)
 - 🧙🏼‍♂️ In my spare time I have studied Computer Architecture, C programming and Assembly (x86) with a focus on reverse engineering.
 - 💚 I am interested in cybersecurity (Malware Analysis and Pentest)
