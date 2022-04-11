@@ -3,7 +3,7 @@ let me introduce myself.
 
 - 🎭 My nick is: 0x0v0iddd
 - 🦹🏻‍♂️ I currently work as a web developer (PHP/Laravel)
-- 🧙🏼‍♂️ In my spare time I have studied Computer Architecture, C programming and Assembly (x86) with a focus on reverse engineering.
+- 🧙🏼‍♂️ In my spare time I study Computer Architecture, C programming and Assembly (x86) with a focus on reverse engineering.
 - 💚 I am interested in cybersecurity (Malware Analysis and Pentest)
 - 📫 <a href="mailto:mscavalcan7i@protonmail.com"> My email</a> / <a href="https://www.linkedin.com/in/mateus-cavalcanti-931381202/">Linkedin</a> / <a href="https://www.instagram.com/cavalcan7i_/">Instagram</a>
 
