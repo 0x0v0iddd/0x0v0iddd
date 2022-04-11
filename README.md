@@ -10,7 +10,6 @@ let me introduce myself.
 <b> [+] </b>Possuo conhecimentos em: 
 
 ![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
