@@ -7,7 +7,7 @@ let me introduce myself.
 - 💚 I am interested in cybersecurity (Malware Analysis and Pentest)
 - 📫 <a href="mailto:mscavalcan7i@protonmail.com"> My email</a> / <a href="https://www.linkedin.com/in/mateus-cavalcanti-931381202/">Linkedin</a> / <a href="https://www.instagram.com/cavalcan7i_/">Instagram</a>
 
-<b> [+] </b>Possuo conhecimentos em: 
+<b> [+] </b>I have knowledge in:
 
 ![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
