@@ -1,3 +1,5 @@
+Cypherpunks Write Code.
+
 Professional web developer and enthusiastic Assembly, Golang and C/C++ developer with a keen interest in reverse engineering and offensive security.
 
 
