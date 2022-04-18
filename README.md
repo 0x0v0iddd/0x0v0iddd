@@ -1,5 +1,8 @@
-<!-- ## Hey, I see you found me 🖖🏻 -->
-let me introduce myself.
+Professional web developer and enthusiastic Assembly, Golang and C/C++ developer with a keen interest in reverse engineering and offensive security.
+
+
+
+<!-- let me introduce myself.
 
 - 🎭 My nick is: 0x0v0iddd
 - 🦹🏻‍♂️ I currently work as a web developer (PHP/Laravel)
@@ -14,4 +17,4 @@ let me introduce myself.
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) -->
